@@ -1,4 +1,4 @@
-/*
+
 public class Std{
 
 	int rollno;
@@ -17,5 +17,3 @@ public class Std{
 	}
 
 }
-
-*/

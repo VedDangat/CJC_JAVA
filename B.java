@@ -1,4 +1,3 @@
-
 public class B
 {
 	int age;
