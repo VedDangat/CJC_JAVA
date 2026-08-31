@@ -7,7 +7,5 @@ System.out.println("heello world");
 n++;
 }while(n<=5);
 
-
-
 }
 }

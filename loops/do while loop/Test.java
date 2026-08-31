@@ -6,7 +6,6 @@ Scanner sc=new Scanner(System.in);
 
 Calculator c =new Calculator();
 
-
 do{
 
 System.out.println("enter the value of num1=");
